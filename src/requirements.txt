@@ -1,0 +1,2 @@
+# Python dependencies for Serverless SaaS functions
+pymysql>=1.0.0
