@@ -1,0 +1,18 @@
+node_modules
+.vscode
+.aws-sam
+.DS_Store
+packaged.yaml
+deploy.sh
+*.toml
+archive
+src/build.log
+.venv
+
+# Terraform
+infra/.terraform/
+infra/*.tfstate*
+infra/*.tfplan
+
+# CodeArts Doer 本地工具状态
+.codeartsdoer/
